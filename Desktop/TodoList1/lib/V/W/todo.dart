@@ -7,7 +7,7 @@ import '../../C/counter-controller.dart';
 import '../../C/counter-controller.dart';
 import '../../M/complate.dart';
 
-class ToDo extends StatelessWidget {
+  class ToDo extends StatelessWidget {
   ToDo({Key? key}) : super(key: key);
   bool _isChecked = true;
   var counterController = Get.put(CounterController());
