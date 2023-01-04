@@ -1,4 +1,0 @@
-#Wed Dec 28 16:02:48 AST 2022
-base.0=/Users/khairiahalayyafi/Desktop/Todo-List/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
